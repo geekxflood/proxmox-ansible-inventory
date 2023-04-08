@@ -1,0 +1,10 @@
+all:
+  hosts:
+    k3s-01:
+      ansible_host: 10.0.0.61
+    k3s-02:
+      ansible_host: 10.0.0.62
+    k3s-03:
+      ansible_host: 10.0.0.63
+    k3s-04:
+      ansible_host: 10.0.0.64
