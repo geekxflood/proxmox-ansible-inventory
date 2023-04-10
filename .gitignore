@@ -6,6 +6,7 @@
 *.out
 *.so
 *.test
+inventory.*
 build/
 output/
 binary/
